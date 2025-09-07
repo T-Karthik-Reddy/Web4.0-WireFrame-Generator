@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Web Builder",
+  "description": "An interactive web application that uses a conversational AI powered by Gemini to generate and preview website code from text prompts and wireframe images.",
+  "requestFramePermissions": []
+}
